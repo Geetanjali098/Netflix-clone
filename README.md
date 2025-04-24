@@ -28,6 +28,9 @@ The application mimics Netflix's core functionality with movie browsing, categor
    - Image brightness control for better text visibility
    - Responsive layout with absolute positioning
    - Custom button styling
+  
+5. **Deployment**:
+   - 
 
 ## About the Netflix Clone
 
@@ -36,10 +39,5 @@ This Netflix clone is a full-stack application that likely uses:
 - **Firebase** for backend services including authentication and database
 - **Redux** for state management
 - **Styled Components** for CSS-in-JS styling
+- **TMDB API** to fetch real-time data, ensuring users have access to the latest content.
 
-The application demonstrates modern web development practices including component-based architecture, state management, and responsive design.
-The hero section showcases featured content with play buttons that would presumably connect to a video player component (`/player` route).
-The movie data appears to be fetched from a Redux store that interfaces with Firebase, allowing for real-time updates to the movie catalog.
-
-The styling shows attention to detail with Netflix-like UI elements including the dark theme, gradient text effects, and hover states on interactive elements.
-The scroll behavior detection suggests a dynamic header similar to Netflix's implementation.
